@@ -2,7 +2,7 @@
 
 | Field               | Value                                                               |
 | ------------------- | ------------------------------------------------------------------- |
-| **PR**              | [#2](https://github.com/borealBytes/test-agent-project-2/pull/2)    |
+| **PR**              | [#1](https://github.com/borealBytes/test-agent-project-2/pull/1)    |
 | **Author**          | Clayton Young ([@borealBytes](https://github.com/borealBytes))      |
 | **Date**            | 2026-02-20                                                          |
 | **Status**          | **Ready to merge**                                                  |
